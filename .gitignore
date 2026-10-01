@@ -1,2 +1,8 @@
 *.o
 monitor
+
+# Compiled executables and object files
+*.o
+/LinuxMonitor
+/monitor
+/LinuxMonitor_Project/LinuxMonitor
